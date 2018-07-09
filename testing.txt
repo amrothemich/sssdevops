@@ -1,1 +1,9 @@
- 
+*******
+This is a header
+*******
+
+This is the core
+
+*******
+This is the end
+****** 
