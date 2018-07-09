@@ -7,3 +7,4 @@ This is the core
 *******
 This is the end
 ****** 
+amilumas is editing testing.txt
